@@ -1,8 +1,29 @@
-# React + Vite
+# 🧠 Disney Memory Game 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive **memory matching game** with a Disney twist — built using **React**, **JavaScript**, and styled with **SCSS using the BEM methodology**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+
+- 🎨 **Disney-themed character cards**
+- 🔄 Shuffle & replay functionality
+- 💻 Built with **React** and modern **JavaScript (ES6+)**
+- 💅 Custom styles using **SCSS** with **BEM naming convention**
+- 📱 Responsive design for desktop and mobile
+
+---
+
+## 🚀 Live Demo
+
+👉 [View Live Demo](https://disney-memory-game.netlify.app/)
+
+---
+
+## 🛠️ Tech Stack
+
+- **React**
+- **JavaScript (ES6+)**
+- **SCSS** (Sass) with **BEM**
+- **HTML5**
+- **CSS Modules / SCSS Structure**
