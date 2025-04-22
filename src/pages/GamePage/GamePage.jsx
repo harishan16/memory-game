@@ -7,9 +7,6 @@ const GamePage = () => {
     <div className="game-page">
       <div className="game-page__heading">
         <div>
-          <h1>Disney Land</h1>
-        </div>
-        <div>
           {/* <h3>
             Play a game to earn blue bells that you can donate to the initiative
             of your choice
